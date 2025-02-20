@@ -29,6 +29,7 @@ BBR
 BIDIRECTIONAL
 CCL
 CGROUP
+CROSSSLOT
 ECN
 ECS
 EKS
@@ -321,6 +322,7 @@ NOLINT
 NOLINTBEGIN
 NOLINTEND
 NOLINTNEXTLINE
+NOLOAD
 NONAME
 NONBLOCK
 NONCES
@@ -1104,6 +1106,7 @@ plaintext
 pluggable
 pointee
 poller
+polymorphism
 popen
 pos
 posix
